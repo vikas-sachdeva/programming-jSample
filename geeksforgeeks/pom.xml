@@ -11,5 +11,6 @@
   <modules>
     <module>binary-search-infinite-array</module>
     <module>binary-search-sorted-rotated-array</module>
+    <module>segregate-0s-1s-array</module>
   </modules>
 </project>
