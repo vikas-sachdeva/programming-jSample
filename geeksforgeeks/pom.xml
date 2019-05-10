@@ -10,5 +10,6 @@
 	<packaging>pom</packaging>
   <modules>
     <module>binary-search-infinite-array</module>
+    <module>binary-search-sorted-rotated-array</module>
   </modules>
 </project>
