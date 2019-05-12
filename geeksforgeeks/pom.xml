@@ -13,5 +13,6 @@
     <module>binary-search-sorted-rotated-array</module>
     <module>segregate-0s-1s-array</module>
     <module>count-frequencies-all-elements-array</module>
+    <module>convert-binary-tree-to-mirror-tree</module>
   </modules>
 </project>
