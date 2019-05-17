@@ -15,5 +15,6 @@
     <module>count-frequencies-all-elements-array</module>
     <module>convert-binary-tree-to-mirror-tree</module>
     <module>stack-get-min-1-time-1-extra-space</module>
+    <module>replace-duplicates-with-greater-previous</module>
   </modules>
 </project>
