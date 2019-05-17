@@ -14,5 +14,6 @@
     <module>segregate-0s-1s-array</module>
     <module>count-frequencies-all-elements-array</module>
     <module>convert-binary-tree-to-mirror-tree</module>
+    <module>stack-get-min-1-time-1-extra-space</module>
   </modules>
 </project>
