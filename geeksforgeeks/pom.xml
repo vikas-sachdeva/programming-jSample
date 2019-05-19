@@ -17,5 +17,6 @@
     <module>stack-get-min-1-time-1-extra-space</module>
     <module>replace-duplicates-with-greater-previous</module>
     <module>permutations-of-string</module>
+    <module>convert-array-into-zig-zag-fashion</module>
   </modules>
 </project>
