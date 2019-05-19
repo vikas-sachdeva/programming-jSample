@@ -1,0 +1,20 @@
+Replace duplicates with greater than previous duplicate value
+
+https://www.geeksforgeeks.org/replace-duplicates-with-greater-than-previous-duplicate-value/
+
+Given an array of elements and change the array in such a way that all the elements on the array are distinct. 
+If you are replacing a value, then the replacing value should be great than the previous value and after modification sum of the elements should be as less as possible.
+
+
+Examples:
+
+Input : arr = {1, 2, 2, 5, 8, 8, 8}
+Output : 1 2 3 5 8 9 10
+8 is replaced with 9 (A non-existing element greater than 8). 
+Next duplicate occurrence of 8 is replaced with 10.
+
+Input : arr = {1, 2, 5, 7, 8, 8, 7}
+Output : 1 2 5 7 8 9 10
+
+Input : arr = {9, 9, 9, 9, 9}
+Output : 9 10 11 12 13 

@@ -16,5 +16,6 @@
     <module>convert-binary-tree-to-mirror-tree</module>
     <module>stack-get-min-1-time-1-extra-space</module>
     <module>replace-duplicates-with-greater-previous</module>
+    <module>permutations-of-string</module>
   </modules>
 </project>
