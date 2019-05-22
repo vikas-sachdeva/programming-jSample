@@ -31,5 +31,6 @@
 
   <modules>
     <module>geeksforgeeks</module>
+    <module>hackerrank</module>
   </modules>
 </project>
