@@ -11,5 +11,6 @@
   <modules>
     <module>sock-merchant</module>
     <module>counting-valleys</module>
+    <module>jumping-on-clouds</module>
   </modules>
 </project>
