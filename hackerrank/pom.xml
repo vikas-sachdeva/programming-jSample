@@ -14,5 +14,6 @@
     <module>jumping-on-clouds</module>
     <module>repeated-string</module>
     <module>2d-array-ds</module>
+    <module>arrays-left-rotation</module>
   </modules>
 </project>
