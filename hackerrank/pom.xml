@@ -13,5 +13,6 @@
     <module>counting-valleys</module>
     <module>jumping-on-clouds</module>
     <module>repeated-string</module>
+    <module>2d-array-ds</module>
   </modules>
 </project>
