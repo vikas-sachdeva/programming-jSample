@@ -18,5 +18,6 @@
     <module>new-year-chaos</module>
     <module>minimum-swaps-2</module>
     <module>array-manipulation</module>
+    <module>hash-tables-ransom-note</module>
   </modules>
 </project>
