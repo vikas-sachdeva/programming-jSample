@@ -17,5 +17,6 @@
     <module>arrays-left-rotation</module>
     <module>new-year-chaos</module>
     <module>minimum-swaps-2</module>
+    <module>array-manipulation</module>
   </modules>
 </project>
