@@ -19,5 +19,6 @@
     <module>minimum-swaps-2</module>
     <module>array-manipulation</module>
     <module>hash-tables-ransom-note</module>
+    <module>two-strings</module>
   </modules>
 </project>
